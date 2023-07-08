@@ -1,6 +1,6 @@
 # Thai ID #
 
-TODO Describe the plugin shortly here.
+Authentication with Thaid for Moodle by KKU
 
 TODO Provide more detailed description here.
 
