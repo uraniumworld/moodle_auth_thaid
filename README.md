@@ -2,7 +2,7 @@
 
 Authentication with Thaid for Moodle by KKU
 
-TODO Provide more detailed description here.
+Contact dev: taemin@kku.ac.th 
 
 ## Installing via uploaded ZIP file ##
 
